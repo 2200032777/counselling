@@ -1,0 +1,28 @@
+.product-list-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .cart-container {
+    text-align: center;
+  }
+  
